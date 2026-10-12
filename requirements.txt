@@ -8,7 +8,7 @@ numpy
 regex
 colorama
 plac
-spacy==3.0.0
+spacy==3.8.16
 nameparser
 imutils
 pytesseract
